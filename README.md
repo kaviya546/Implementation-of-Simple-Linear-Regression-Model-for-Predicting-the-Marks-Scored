@@ -20,6 +20,8 @@ To write a program to predict the marks scored by a student using the simple lin
 Developed by: KAVIYA SNEKA M
 RegisterNumber: 212223040091
 
+
+```
 ## Program
 
 import pandas as pd
@@ -64,6 +66,7 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
+```
 
 ## Output:
 Dataset
