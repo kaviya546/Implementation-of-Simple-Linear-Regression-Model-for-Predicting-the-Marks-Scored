@@ -17,10 +17,10 @@ To write a program to predict the marks scored by a student using the simple lin
 6.compare the graph and hence we obtained the linear regression for the given data
 
 
-## Program:
-
 Developed by: KAVIYA SNEKA M
 RegisterNumber: 212223040091
+
+## Program
 
 import pandas as pd
 import numpy as np
